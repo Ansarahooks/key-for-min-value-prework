@@ -7,6 +7,7 @@ def key_for_min_value(name_hash)
   else
     name_hash.each do |key, value|
       value - 0
+    end
   end
   #name_hash.index(value)
 end
