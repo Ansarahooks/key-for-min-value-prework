@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
     nil
   else
     name_hash.each do |hash_key, hash_value|
-      
+      hash_value
   end
   hash_key
 end
