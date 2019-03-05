@@ -7,5 +7,5 @@ def key_for_min_value(name_hash)
   else
     name_hash.each do ||
   end
-  hash.index(value)
+  #name_hash.index(value)
 end
